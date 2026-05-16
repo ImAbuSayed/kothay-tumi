@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kothay Tumi
+
+This log tracks the cryptographic history and versioning for the song **Kothay Tumi** (kothay-tumi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T11:30:27.061091 | `v1` | `628de649c4336c73a46b8ad837ff99ff0b8b67ad7f9597a88ac1c0a2185f7a58` | `0ed304aade74a51ebde81024382122ec159b45dd58c3160d8f7837d7b0776486` | `2026-05-16_kothay-tumi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
