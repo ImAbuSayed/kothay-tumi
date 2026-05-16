@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধারের এই রাতে আমি কোথায় খুঁজি তোমায়,
+> স্মৃতির পাতায় আঁকা ছবি শুধু যে কাঁদায়।.. শুধু কাঁদায়..
+> ছায়াসঙ্গী হয়ে আমি চলি অচিন পথে,
+> ফিরবে কি আর তুমি এই শূন্য জীবনের রথে।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
